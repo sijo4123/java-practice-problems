@@ -1,4 +1,4 @@
-package edu.sijo.practice.problems.math;
+package edu.sijo.practice.problems.math.fibonacci;
 
 public class FibonacciForLoop {
     public static void main(String[] args) {

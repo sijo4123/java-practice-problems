@@ -1,4 +1,4 @@
-package edu.sijo.practice.problems.math;
+package edu.sijo.practice.problems.math.fibonacci;
 
 public class FibonacciRecursion {
     public static int fib(int n) {

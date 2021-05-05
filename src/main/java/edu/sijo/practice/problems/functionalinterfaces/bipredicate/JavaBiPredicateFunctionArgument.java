@@ -1,4 +1,4 @@
-package edu.sijo.practice.problems.functionalinterfaces;
+package edu.sijo.practice.problems.functionalinterfaces.bipredicate;
 
 import java.util.Arrays;
 import java.util.List;

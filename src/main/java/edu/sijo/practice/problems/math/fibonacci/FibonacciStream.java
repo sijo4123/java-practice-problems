@@ -1,4 +1,4 @@
-package edu.sijo.practice.problems.math;
+package edu.sijo.practice.problems.math.fibonacci;
 
 import java.math.BigInteger;
 import java.util.List;
